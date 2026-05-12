@@ -16,6 +16,12 @@ It is based on a legacy Sunxi kernel source.
 
 ---
 
+## 🖼️ Board Image
+
+![Lichee Pi Nano](https://github.com/user-attachments/assets/5e4a0026-2524-4e19-be50-aad61e341c40)
+
+---
+
 ## ⚙️ Requirements
 
 Install dependencies:
@@ -32,6 +38,3 @@ libncurses-dev \
 libelf-dev \
 git \
 wget
-
-
-<img width="595" height="71" alt="image" src="https://github.com/user-attachments/assets/5e4a0026-2524-4e19-be50-aad61e341c40" />
